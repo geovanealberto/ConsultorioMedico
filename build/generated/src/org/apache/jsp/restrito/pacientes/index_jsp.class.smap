@@ -1,0 +1,21 @@
+SMAP
+index_jsp.java
+JSP
+*S JSP
+*F
++ 0 index.jsp
+restrito/pacientes/index.jsp
++ 1 header.jsp
+pagina/header.jsp
++ 2 footer.jsp
+pagina/footer.jsp
+*L
+5,2:52
+5#1,28:54
+7#0,37:81
+73,44:118
+200,12:161
+213,24:174
+236,2:198
+5#2,11:200
+*E

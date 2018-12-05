@@ -1,0 +1,12 @@
+SMAP
+deletar_jsp.java
+JSP
+*S JSP
+*F
++ 0 deletar.jsp
+restrito/pacientes/deletar.jsp
+*L
+5,13:45
+19,15:60
+33,4:75
+*E

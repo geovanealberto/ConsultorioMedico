@@ -1,0 +1,19 @@
+SMAP
+Agregar_jsp.java
+JSP
+*S JSP
+*F
++ 0 Agregar.jsp
+restrito/pacientes/Agregar.jsp
++ 1 header.jsp
+cabecario/header.jsp
++ 2 footer.jsp
+cabecario/footer.jsp
+*L
+5:53
+5#1,28:54
+6#0,23:81
+5#2,11:104
+28#0,3:114
+32,21:118
+*E
